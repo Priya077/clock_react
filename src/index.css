@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  background-color:rgb(136, 72, 19);
+  
+}
+.clock{
+  margin:150px;
+  font-size:26px;
+  text-align:center;
+  background-color: cadetblue;
+  padding:8px;
+}
